@@ -5,13 +5,15 @@
 - Mysql 8.0
 - SGBD PHPMyadmin
 - laravel/framework: "5.8.*
+<p align=""><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 
-### Design Patters:
-<p align="center"><img src="https://lh3.googleusercontent.com/ku6bNDhW6WnLpWFkjHwMHC8amo746x937hdH3tITeGlQAl2t-34N923eyt_bAuSkmn4PDM_XUwwNpHIg4EHhfU2fp1ZxCKVYuPqpu5SU95h58OFtiWhXKAJXfHy1Try1eKW4u6RJ" width="400"></p>
+
 
 ### Functions
 - The user can register, update and delete your paragliding flights
+#### Design Patters:
+<p align=""><img src="https://lh3.googleusercontent.com/ku6bNDhW6WnLpWFkjHwMHC8amo746x937hdH3tITeGlQAl2t-34N923eyt_bAuSkmn4PDM_XUwwNpHIg4EHhfU2fp1ZxCKVYuPqpu5SU95h58OFtiWhXKAJXfHy1Try1eKW4u6RJ" width="400"></p>
 
 ### Prints 
 - Relatorio
@@ -23,5 +25,4 @@
 - Login
 ![image](https://user-images.githubusercontent.com/41880119/64926823-a4d76c80-d7d8-11e9-927c-3367f2cd8c93.png)
 
-<p align=""><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
