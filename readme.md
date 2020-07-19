@@ -4,7 +4,6 @@
 - PHP 7.0
 - Mysql 8.0
 - SGBD PHPMyadmin
-<p align=""><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 - laravel/framework: "5.8.*
 
 
@@ -23,3 +22,6 @@
 ![image](https://user-images.githubusercontent.com/41880119/64926748-92106800-d7d7-11e9-8f70-c1aadf1102ae.png)
 - Login
 ![image](https://user-images.githubusercontent.com/41880119/64926823-a4d76c80-d7d8-11e9-927c-3367f2cd8c93.png)
+
+<p align=""><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+
