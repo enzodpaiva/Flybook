@@ -4,25 +4,15 @@
 - PHP 7.0
 - Mysql 8.0
 - SGBD PHPMyadmin
-- laravel/framework: "5.8.*
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+- laravel/framework: "5.8.*
+
 
 ### Design Patters:
-<p align=""><img src="https://lh3.googleusercontent.com/ku6bNDhW6WnLpWFkjHwMHC8amo746x937hdH3tITeGlQAl2t-34N923eyt_bAuSkmn4PDM_XUwwNpHIg4EHhfU2fp1ZxCKVYuPqpu5SU95h58OFtiWhXKAJXfHy1Try1eKW4u6RJ" width="400"></p>
+<p align="center"><img src="https://lh3.googleusercontent.com/ku6bNDhW6WnLpWFkjHwMHC8amo746x937hdH3tITeGlQAl2t-34N923eyt_bAuSkmn4PDM_XUwwNpHIg4EHhfU2fp1ZxCKVYuPqpu5SU95h58OFtiWhXKAJXfHy1Try1eKW4u6RJ" width="400"></p>
 
 ### Functions
-- Menu - Onde é possivel cadastrar, atualizar e excluir:
-1. Funcionarios
-2. Hospedes
-3. Quartos
-4. Serviço de Quarto
-5. Convenio de hospedes (O que pode gerar desconto em uma reserva)
-6. Reservar um quarto
-7. Serviço que o funcionario realizou
-8. Função do funcionario (Se é gerente, camareira etc)
-9. Listar dois relatorios: Numero de hospedes homens e Numero de hospedes Mulheres
-10. Login 
-
+- The user can register, update and delete your paragliding flights
 
 ### Prints 
 - Relatorio
