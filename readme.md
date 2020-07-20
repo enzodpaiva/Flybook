@@ -1,5 +1,10 @@
 # Flybook
 
+## Description:
+<p>system for
+registration of paragliding flights. According to the partner company, the paragliding school Blue Sky, ABP (Brazilian Paragliding Association) establishes minimum number of 50 flights to be performed under supervision of a monitor / instructor qualified to check to the new practitioner their qualification and in this sense it is necessary to ensure that flights are effectively registered and can be validated in order to prove before PBL the pilot's ability to handle the equipment correctly and respect the rules of sport safety. As before, an Excel spreadsheet was used to make flight records, a web system was requested that could replace this old method.
+</P>
+
 ### features: 
 - PHP 7.0
 - Mysql 8.0
